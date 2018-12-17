@@ -24,4 +24,3 @@ deploy:
 provider: heroku
   api_key:
     secure: 2a51d36b-84f7-496b-9870-8a1be24ee8ae
-app: decidejvr

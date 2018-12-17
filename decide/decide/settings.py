@@ -69,7 +69,7 @@ MODULES = [
     'voting',
 ]
 
-BASEURL = 'https://git.heroku.com/egcvisual.git'
+BASEURL = 'https://egcvisual.herokuapp.com'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

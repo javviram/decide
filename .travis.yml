@@ -21,6 +21,6 @@ script:
 addons:
   postgresql: "9.6"
 deploy:
-provider: heroku
-  api_key: 2a51d36b-84f7-496b-9870-8a1be24ee8ae
-  app: decidejvr
+  provider: heroku
+  api_key: "2a51d36b-84f7-496b-9870-8a1be24ee8ae"
+  app: decidejavr
